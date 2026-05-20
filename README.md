@@ -30,32 +30,33 @@ verified connectivity using private IP ping between EC2 instances.
 
 ## Screenshots
 
-### VPC Dashboard
-![VPC Dashboard](screenshots/vpc-dashboard.png)
-
-### dev-VPC Configuration
+### dev-VPC
 ![dev-VPC](screenshots/dev-vpc.png)
 
-### prod-VPC Configuration
+### prod-VPC
 ![prod-VPC](screenshots/prod-vpc.png)
 
-### Public and Private Subnets
+### Subnets
 ![Subnets](screenshots/subnets.png)
 
-### VPC Peering Connection
-![VPC Peering](screenshots/peering-active.png)
+### VPC Peering
+![Peering](screenshots/peering.png)
 
-### Route Tables
-![Route Tables](screenshots/route-tables.png)
+### Route Tables (dev)
+![RT-dev](screenshots/rt-dev.png)
 
-### Security Groups
-![Security Groups](screenshots/security-groups.png)
+### Route Tables (prod)
+![RT-prod](screenshots/rt-prod.png)
 
-### Route Table Associations
-![Associations](screenshots/subnet-associations.png)
+### Security Groups (dev)
+![SG-dev](screenshots/sg-dev.png)
 
-### Successful Ping Test
-![Successful Ping](screenshots/successful-ping.png)
+### Security Groups (prod)
+![SG-prod](screenshots/sg-prod.png)
+
+### Connectivity Test (Ping)
+![Ping](screenshots/ping.png)
+
 
 
 ##  Author
